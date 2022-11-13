@@ -1,3 +1,10 @@
+# Discord
+config.json
+
+# Mac
+
+.DS_Store
+
 # Logs
 logs
 *.log
